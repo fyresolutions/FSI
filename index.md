@@ -1,5 +1,5 @@
 ---
-title: FYRE Solutions INC
+title: FYRE Solutions
 permalink: /
 ---
 
