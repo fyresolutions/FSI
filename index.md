@@ -1,4 +1,5 @@
 ---
+title: Fyre Solutions INC
 permalink: /
 ---
 
