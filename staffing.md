@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Staffing
 permalink: /staffing/
 ---
