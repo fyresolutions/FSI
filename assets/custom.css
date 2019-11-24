@@ -6,7 +6,8 @@
 .site-title {
     font-weight: 500;
     line-height: 85px;
-    font-size: 38px;
+    font-size: 32px;
+    font-family: Orbitron;
 }
 
 .site-footer {
@@ -50,4 +51,13 @@
 
 .site-footer-credits {
     line-height: 60px;
+}
+
+.logo .img {
+    float: left
+}
+
+.logo .img img {
+    height: 80px;
+    margin: 10px 20px 0
 }
