@@ -1,0 +1,8 @@
+.site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative;
+    background-color: #14e348; }
+
+ .site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; font-weight: 500; }
+ .site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; background-color: #14e348; }
+ .site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative;
+    background-color: #14e348; }
+.page-content { padding: 30px 0; flex: 1; background-color: #cafcfc; }

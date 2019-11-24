@@ -1,6 +1,7 @@
 ---
 title: About Us
 permalink: /about/
+layout: default
 ---
 
 FYRE Solutions is an end-to-end professional services firm that delivers high-value enterprise application solutions to leading mid-size and Fortune 500 companies. For more than a decade, FYRE Solutions has partnered with clients in the development, delivery and oversight of targeted Business Intelligence and Enterprise Applications Intiatives.

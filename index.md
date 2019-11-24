@@ -1,9 +1,13 @@
 ---
-title: FYRE Solutions
+layout: default
+title: Home
 permalink: /
 ---
 
+![Header](images/Company-Profile01.jpg "Fyre Solutions")
+
 ### Experience Comes with Sharing
+
 Our aim is to have you succeed in the digital space. Our services enable us to do just that, time and time again.
 
 * Enterprise Resource Planning(ERP)	

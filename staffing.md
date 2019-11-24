@@ -1,6 +1,7 @@
 ---
 title: Staffing
 permalink: /staffing/
+layout: default
 ---
 
 Fyre Solutions Technical Staffing is an award winning IT staffing agency serving expanding corporations, start-ups, nonprofits, and technical companies.
