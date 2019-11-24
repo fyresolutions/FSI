@@ -1,37 +1,21 @@
-## Fyre Solutions INC
+---
+title: FYRE Solutions
+permalink: /
+---
 
-You can use the [editor on GitHub](https://github.com/fyresolutions/FSI/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Experience Comes with Sharing
+Our aim is to have you succeed in the digital space. Our services enable us to do just that, time and time again.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Enterprise Resource Planning(ERP)	
+* Business Intelligence and Data Warehousing(BW/BI/DW)
+* Customer Relationship Management (CRM)
+* Supply Chain Management (SCM)
+* Business Workflow and Process
+* Reengineering
+* Product Upgrades and Migrations
+* Change Management
+* Enterprise Risk Management
+* Management Consulting
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fyresolutions/FSI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [Learn more about FYRE Solutions](/about)

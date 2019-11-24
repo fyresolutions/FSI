@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 title: Fyre Solutions INC
 email: f***************@gmail.com
@@ -10,3 +11,7 @@ twitter_username: fyresolutionsinc
 github_username:  fyresolutionsinc
 
 theme: minima
+=======
+title: Fyre Solutions INC
+theme: jekyll-theme-cayman
+>>>>>>> 8126a2cba88f79357fdd4fbac212b61c1a92c56f
