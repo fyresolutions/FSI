@@ -18,4 +18,4 @@ Our aim is to have you succeed in the digital space. Our services enable us to d
 * Management Consulting
 
 
-### [About FYRE Solutions](/about)
+### [Learn more about FYRE Solutions](/about)
