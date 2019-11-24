@@ -16,16 +16,22 @@
 .page-content {
     background-color: #cafcfc;
 }
+
 .socialicon {
     list-style: none;
     float: right;
 }
+
 .socialicon svg {
-    height: 24px;
-    width: 24px;
+    height: 36px;
+    width: 36px;
+    background-color: white;
+    border-radius: 8px;
 }
+
 .socialicon li {
     float: left;
+    margin: 10px;
 }
 
 .linkedin svg {
@@ -34,9 +40,14 @@
 
 .facebook svg {
     fill: hsla(221, 44%, 41%, 1);
-    color: hsla(221, 44%, 41%, 1);
+    color: white;
 }
 
 .twitter svg {
     fill: hsla(206, 82%, 63%, 1);
+    color: white;
+}
+
+.site-footer-credits {
+    line-height: 60px;
 }
