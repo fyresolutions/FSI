@@ -3,7 +3,6 @@ email: f***************@gmail.com
 baseurl: ""
 url: ""
 
-# Build settings
 theme: minima
 plugins:
   - jekyll-feed
