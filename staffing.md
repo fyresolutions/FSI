@@ -10,7 +10,7 @@ As listed in the Business Times, and seen on the CBS News feature, "Where is The
 
 From C-level to support staff, our recruitment team stands ready to connect you to the talent you need.
 
-### Powerful IT Connections
+## Powerful IT Connections
 
 An expert technical recruiting partner is essential in today's competitive technology market. Fyre Solutions Technical Staffing actively networks, recruits, and places exceptional IT talent for a variety of verticals and specialized teams.
 
@@ -18,7 +18,7 @@ Fyre Solutions's dedicated career recruiters will leverage their deep technical 
 
 We provide pre-screened, exceptional candidates that cannot be found on job boards. Our clients rave about our personal recruitment attention and communication, detailed approach, and well-developed professional networks.
 
-### Cutting-Edge Technology Professionals
+## Cutting-Edge Technology Professionals
 
 Our talented IT candidates are experienced in working with a variety of emerging technologies, programming languages, hardware, and platforms.
 
@@ -28,7 +28,7 @@ Based on your technical environment and company culture, we provide specialized,
 
 Fyre Solutions Technical Staffing connects with, recruits, and delivers, the IT leader of tomorrow.
 
-### Employ the Best
+## Employ the Best
 
 Securing exceptional IT talent quickly is a critical need for expanding and successful corporations.
 
