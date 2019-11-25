@@ -26,7 +26,7 @@
 .socialicon svg {
     height: 36px;
     width: 36px;
-    background-color: white;
+    background-color: #ffffff;
     border-radius: 8px;
 }
 
@@ -41,12 +41,13 @@
 
 .facebook svg {
     fill: hsla(221, 44%, 41%, 1);
-    color: white;
 }
 
 .twitter svg {
     fill: hsla(206, 82%, 63%, 1);
-    color: white;
+}
+.pinterest svg {
+    fill: #cb2027;
 }
 
 .site-footer-credits {

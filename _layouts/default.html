@@ -13,6 +13,10 @@
   {% endif %}
   <meta charset="UTF-8">
 
+  {%- if page.title -%}
+  <title>{{page.title }} | {{site.title | escape}}</title>
+  {%- endif -%}
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#157878">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -30,6 +34,9 @@
 
   <main id="content" class="page-content" role="main">
     <div class="wrapper">
+      {%- if page.title and page.permalink != "/" -%}
+      <h1 class="page-heading">{{ page.title }}</h1>
+      {%- endif -%}
       {{ content }}
     </div>
   </main>
